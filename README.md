@@ -48,7 +48,7 @@ This table is a collection of Elo ratings taken from [ClubElo](http://www.clubel
 
 ### 💪 TABLE 2 - MATCHES.csv
 
-This table is a collection of historical match results and statistics taken from [Football-Data.co.uk](https://www.football-data.co.uk)/. The data are ordered by date, starting from 28th July (the beginning of the 2000/01 season) up until 23rd December 2024 (the 2024/25 season). The table contains the most important information about both teams and about the match itself. The table is highly incomplete due to the differences in statistics provided by each league. However, it is possible to create smaller sub-tables or clean this one to remove null values. As of January 2025, the table contains about 226,000 unique match records.
+This table is a collection of historical match results and statistics taken from [Football-Data.co.uk](https://www.football-data.co.uk). The data are ordered by date, starting from 28th July (the beginning of the 2000/01 season) up until 23rd December 2024 (the 2024/25 season). The table contains the most important information about both teams and about the match itself. The table is highly incomplete due to the differences in statistics provided by each league. However, it is possible to create smaller sub-tables or clean this one to remove null values. As of January 2025, the table contains about 226,000 unique match records.
 
 |Column | Data Type | Description |
 | --- | --- |---|
