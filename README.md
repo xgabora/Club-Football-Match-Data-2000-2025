@@ -2,7 +2,7 @@
 
 This dataset offers a simple entrance to the world of football match data analysis. It offers football match data from 27 countries and 42 leagues worldwide, including some of the best leagues such as the English Premier League, German Bundesliga, and Spanish La Liga. The data spans from the 2000/01 season to the most recent results from the 2024/25 season. The dataset also includes Elo Ratings for the given time period with snapshots of ~500 of the best teams in Europe taken twice a month, on the 1st and 15th.
 
-Match results and statistics provided in the table are taken from [Football-Data.co.uk](www.football-data.co.uk/). Elo data are taken from [ClubElo](www.clubelo.com/).
+Match results and statistics provided in the table are taken from [Football-Data.co.uk](https://www.football-data.co.uk/). Elo data are taken from [ClubElo](https://www.clubelo.com/).
 
 ---
 
