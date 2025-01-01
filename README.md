@@ -158,8 +158,8 @@ Derived features are computed quickly on-the-go and that's why they are not incl
 | **💰️ `BookmakerMargin`**| *float* |ImpliedProbTotal - 1. Understoot as a "market uncertainty", can help distinguishing between clear-favorite matches and matches that can go either way. |
 | **🏹 `ShotsDifference`**| *int* |HomeShots - AwayShots. |
 | **🏹 `ShotsTotal`**| *int* |HomeShots + AwayShots. |
-| **🎯 `ShotAccuracyHome`**| *float* |HomeTarget / HomeShots. Gives us % accuracy, this tends to go up as match progresses. Better team does not neccessarily need to have better shot accuracy. |
-| **🎯 `ShotAccuracyAway`**| *float* |AwayTarget / AwayShots. Gives us % accuracy, this tends to go up as match progresses. Better team does not neccessarily need to have better shot accuracy. |
+| **🎯 `ShotAccuracyHome`**| *float* |HomeTarget / HomeShots. Gives us % accuracy, this tends to go up as match progresses. Better team does not necessarily need to have better shot accuracy. |
+| **🎯 `ShotAccuracyAway`**| *float* |AwayTarget / AwayShots. Gives us % accuracy, this tends to go up as match progresses. Better team does not necessarily need to have better shot accuracy. |
 | **🎯 `ShotAccuracyDiff`**| *float* |ShotAccuracyHome - ShotAccuracyAway. |
 | **🗡️ `ScoringEfficiencyHome`**| *float* |Derived from Home Team's goals and Home Team's shots on target. Home Elo, Odds and Form can also be taken into account as well as historic scoring ratios. |
 | **🗡️ `ScoringEfficiencyAway`**| *float* |Derived from Away Team's goals and Away Team's shots on target. Away Elo, Odds and Form can also be taken into account as well as historic scoring ratios. |
