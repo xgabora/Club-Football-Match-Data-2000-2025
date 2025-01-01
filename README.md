@@ -37,7 +37,7 @@ The dataset is a great starting point for football match prediction, both pre-ma
 
 ### 💪 TABLE 1 - ELO RATINGS.csv
 
-This table is a collection of Elo ratings taken from [ClubElo](www.clubelo.com/). Snapshots are taken twice a month, on the 1st and 15th day of the month, saving the whole Club Elo database. Some clubs' names are remapped to correspond with the **Matches** table (*for example "Bayern" to "Bayern Munich"*).``
+This table is a collection of Elo ratings taken from [ClubElo](http://www.clubelo.com/). Snapshots are taken twice a month, on the 1st and 15th day of the month, saving the whole Club Elo database. Some clubs' names are remapped to correspond with the **Matches** table (*for example "Bayern" to "Bayern Munich"*).``
 
 |Column | Data Type | Description |
 | --- | --- |---|
@@ -47,6 +47,8 @@ This table is a collection of Elo ratings taken from [ClubElo](www.clubelo.com/)
 | **📈 `Elo`**| *float* |Club's current Elo rating, rounded to two decimal spots. |
 
 ### 💪 TABLE 2 - MATCHES.csv
+
+This table is a collection of historical match results and statistics taken from [Football-Data.co.uk](https://www.football-data.co.uk)/). The data are ordered by date, starting from 28th July (the beginning of the 2000/01 season) up until 23rd December 2024 (the 2024/25 season). The table contains the most important information about both teams and about the match itself. The table is highly incomplete due to the differences in statistics provided by each league. However, it is possible to create smaller sub-tables or clean this one to remove null values. As of January 2025, the table contains about 226,000 unique match records.
 
 |Column | Data Type | Description |
 | --- | --- |---|
