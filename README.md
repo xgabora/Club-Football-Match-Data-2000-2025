@@ -12,9 +12,9 @@ Match results and statistics provided in the table are taken from [Football-Data
 
 🔗 **Files type**: .csv
 
-⌨️ **Total rows**: ~467 000 as of 01/2025
+⌨️ **Total rows**: ~470 000 as of 03/2025
 
-💾 **Total size**: ~46MB as of 01/2025
+💾 **Total size**: ~48MB as of 03/2025
 
 
 The dataset is a great starting point for football match prediction, both pre-match and in-play, with huge potential lying in the amount of data and their accuracy. The dataset contains information about teams' strength and form prior to the match, as well as general market predictions via pre-match odds.
@@ -29,7 +29,7 @@ The dataset is a great starting point for football match prediction, both pre-ma
 
 2️⃣ **READABILITY** - The whole dataset is tabular, and all of the data are clear to navigate and explain. Both tables in the dataset correspond to each other via remapped club names, and all of the formats within the table (such as odds) are uniform.
 
-3️⃣ **RECENCY** - This is the most up-to-date open football dataset, containing data from matches as recent as December 2024. The plan is to update this dataset monthly or bi-monthly via a custom-made Python pipeline.
+3️⃣ **RECENCY** - This is the most up-to-date open football dataset, containing data from matches as recent as March 2025. The plan is to update this dataset monthly or bi-monthly via a custom-made Python pipeline.
 
 ---
 
