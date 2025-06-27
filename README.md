@@ -1,4 +1,4 @@
-## ⚽ **Club Football Match Data (2000 - 2025)**
+![image](https://github.com/user-attachments/assets/2d25b42d-35b4-447e-bbd5-8f6417192871)## ⚽ **Club Football Match Data (2000 - 2025)**
 
 This dataset offers a simple entrance to the world of football match data analysis. It offers football match data from 27 countries and 42 leagues worldwide, including some of the best leagues such as the English Premier League, German Bundesliga, and Spanish La Liga. The data spans from the 2000/01 season to the most recent results from the 2024/25 season. The dataset also includes Elo Ratings for the given time period with snapshots of ~500 of the best teams in Europe taken twice a month, on the 1st and 15th.
 
@@ -12,9 +12,9 @@ Match results and statistics provided in the table are taken from [Football-Data
 
 🔗 **Files type**: .csv
 
-⌨️ **Total rows**: ~470 000 as of 03/2025
+⌨️ **Total rows**: ~475 000 as of 07/2025
 
-💾 **Total size**: ~48MB as of 03/2025
+💾 **Total size**: ~51MB as of 07/2025
 
 
 The dataset is a great starting point for football match prediction, both pre-match and in-play, with huge potential lying in the amount of data and their accuracy. The dataset contains information about teams' strength and form prior to the match, as well as general market predictions via pre-match odds.
@@ -29,7 +29,7 @@ The dataset is a great starting point for football match prediction, both pre-ma
 
 2️⃣ **READABILITY** - The whole dataset is tabular, and all of the data are clear to navigate and explain. Both tables in the dataset correspond to each other via remapped club names, and all of the formats within the table (such as odds) are uniform.
 
-3️⃣ **RECENCY** - This is the most up-to-date open football dataset, containing data from matches as recent as March 2025. The plan is to update this dataset monthly or bi-monthly via a custom-made Python pipeline.
+3️⃣ **RECENCY** - This is the most up-to-date open football dataset, containing data from matches as recent as July 2025. The plan is to update this dataset monthly or bi-monthly via a custom-made Python pipeline.
 
 ---
 
@@ -94,6 +94,12 @@ This table is a collection of historical match results and statistics taken from
 | **🟰 `HandiSize`**| *float* |Asian handicap size for home team (*negative number indicating stronger home team*) . |
 | **➕️ `HandiHome`**| *float* |Bet365's Home Team Win Odd with the given handicap size for Home team. |
 | **➖️ `HandiAway`**| *float* |Bet365's Away Team Win Odd with the given handicap size for Home team. |
+| **📦 `C_LTH`**| *float* |Likeliness of match falling into the Low Tempo Home-oriented match cluster. |
+| **📦 `C_LTA`**| *float* |Likeliness of match falling into the Low Tempo Away-oriented match cluster. |
+| **📦 `C_VHD`**| *float* |Likeliness of match falling into the Visibly Home Dominated match cluster. |
+| **📦 `C_VAD`**| *float* |Likeliness of match falling into the Visibly Away Dominated match cluster. |
+| **📦 `C_HTB`**| *float* |Likeliness of match falling into the High Tempo Balanced match cluster. |
+| **📦 `C_PHB`**| *float* |Likeliness of match falling into the Highly Physical Balanced match cluster. |
 
 ---
 
