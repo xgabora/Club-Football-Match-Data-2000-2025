@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2d25b42d-35b4-447e-bbd5-8f6417192871)## ⚽ **Club Football Match Data (2000 - 2025)**
+⚽ **Club Football Match Data (2000 - 2025)**
 
 This dataset offers a simple entrance to the world of football match data analysis. It offers football match data from 27 countries and 42 leagues worldwide, including some of the best leagues such as the English Premier League, German Bundesliga, and Spanish La Liga. The data spans from the 2000/01 season to the most recent results from the 2024/25 season. The dataset also includes Elo Ratings for the given time period with snapshots of ~500 of the best teams in Europe taken twice a month, on the 1st and 15th.
 
