@@ -196,3 +196,17 @@ Derived features are computed quickly on-the-go and that's why they are not incl
 🆚 **Team comparison**: United 2007/08 or City 2022/23? Compare teams' historical seasons, their points, game results, and form streaks during different periods of time.
 
 🖼️ **Data visualization**: Elo strength over time, average goals scored per league, or anything else - create data visualizations and accurate graphs from any metrics possible.
+
+---
+
+## ✒️ CITING THIS REPOSITROY
+
+If you use this repository or its contents, please use the following information to cite it.
+
+**Author:** Adam Gábor  
+**ORCID:** https://orcid.org/0009-0001-9252-5976  
+**Affiliation:** Faculty of Informatics and Information Technologies, Slovak University of Technology in Bratislava  
+**Year:** 2025
+
+**Example citation:**
+Gábor, A. (2025). Club Football Match Data. Retrieved from https://github.com/xgabora/Club-Football-Match-Data-2000-2025/.
